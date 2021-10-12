@@ -55,3 +55,4 @@ MANIFEST
 *.pth
 *.zip
 lightning_logs/
+Pipfile
